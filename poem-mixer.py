@@ -1,7 +1,7 @@
 # Nicolas Aguilar
 # 06/02/2020
 
-# Peom Mixer
+# Poem Mixer
 
 
 poem = input('What is the poem?')
